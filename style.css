@@ -1,0 +1,36 @@
+
+.title {
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+
+
+  .button-blue {
+    background-color: rgb(68, 68, 68);
+    color: aliceblue;
+    cursor: pointer;
+    height: 80px;
+    width: 80px;
+  }
+
+  .button-blue:hover {
+    background-color:#002ead;
+    transition: 0.7s;
+}
+.button-red {
+    background-color: rgb(68, 68, 68);
+    color: aliceblue;
+    cursor: pointer;
+    height: 80px;
+    width: 80px;
+  }
+
+  .button-red:hover {
+    background-color:#ff0000;
+    transition: 0.7s;
+}
+
+.Image {
+    align-items: center;
+}
